@@ -1,1 +1,14 @@
-{}
+[
+   {
+      "relation":[
+         "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+         "namespace":"android_app",
+         "package_name":"com.kang.test",
+         "sha256_cert_fingerprints":[
+            "10:0A:6D:15:35:FC:59:5C:2D:4F:58:47:01:0A:F8:15:8A:04:09:61:EA:DB:0E:2C:D4:E4:58:17:BB:C7:9F:6D"
+         ]
+      }
+   }
+]
